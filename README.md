@@ -6,16 +6,17 @@ In Testbed 14, a first prototype of 3D Portrayal and WFS 3.0 using OpenAPI has b
 https://www.opengeospatial.org/standards/3dp (approved May 2016)
 Specifies queries that enable both web-based image based (conformance class view) and scene graph based (conformance class scene) rendering of 3D environments. It does NOT specify a data delivery format. 
 
-data delivery format of 3D Portrayal Service getScene request:
+** data delivery format of 3D Portrayal Service getScene request:
 
-3D Tiles community standard (Feb 2019)
+*** 3D Tiles community standard (Feb 2019)
 http://www.opengeospatial.org/pressroom/pressreleases/2946
 http://www.opengeospatial.org/standards/3DTiles
 
-I3S community standard (March 2017)
+*** I3S community standard (March 2017)
 https://www.opengeospatial.org/pressroom/pressreleases/2567
 https://www.opengeospatial.org/standards/i3s
 
+*** Testbed 13
 Implementation and testing can be found in the OGC Testbed-13: 3D Tiles and I3S Interoperability and Performance Enegineering report (OGC document 17-046)
 http://docs.opengeospatial.org/per/17-046.html (March 2018)
 
@@ -35,11 +36,12 @@ Testbed 13 also includes an example to render I3S in Cesium client as a proof of
 X3D 
 (see presentation of Martin Christen, TC meeting charlotte)
 
-other resoruces:
+*** other resoruces:
 
 3D Tiles support in iTown globe
 
-Testbed 14:
+** 3DPS and WFS 3.0
+*** Testbed 14
 
 https://github.com/opengeospatial/D040-Complex_Feature_Handling_Engineering_Report
 
