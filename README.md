@@ -6,9 +6,9 @@ In Testbed 14, a first prototype of 3D Portrayal and WFS 3.0 using OpenAPI has b
 https://www.opengeospatial.org/standards/3dp (approved May 2016)
 Specifies queries that enable both web-based image based (conformance class view) and scene graph based (conformance class scene) rendering of 3D environments. It does NOT specify a data delivery format. 
 
-** data delivery format of 3D Portrayal Service getScene request:
+## data delivery format of 3D Portrayal Service getScene request:
 
-*** 3D Tiles community standard (Feb 2019)
+### 3D Tiles community standard (Feb 2019)
 http://www.opengeospatial.org/pressroom/pressreleases/2946
 http://www.opengeospatial.org/standards/3DTiles
 
